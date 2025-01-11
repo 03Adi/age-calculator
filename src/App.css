@@ -1,0 +1,47 @@
+.App {
+    text-align: center;
+    background-color: #f0f8ff;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 500px;
+    margin: auto;
+  }
+  
+  .input-container {
+    margin: 20px 0;
+  }
+  
+  .input-group {
+    display: inline-block;
+    margin: 10px;
+  }
+  
+  input {
+    padding: 8px;
+    margin: 5px;
+    width: 60px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #008cba;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    display: block; /* Ensure it takes the full width */
+    margin: 20px auto; /* Center the button */
+  }
+  
+  button:hover {
+    background-color: #005f73;
+  }
+  
+  .error {
+    color: red;
+  }
+  
+  .result {
+    margin-top: 20px;
+  }
+  
