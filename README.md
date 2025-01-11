@@ -35,15 +35,15 @@ To run this project locally, follow these steps:
    npm install
    
 ## Usage
-To start the development server, run the following command:
+- To start the development server, run the following command:
 npm start
-Open your web browser and go to http://localhost:3000 to view the application.
+- Open your web browser and go to http://localhost:3000 to view the application.
 
 ## Technologies Used
-React.js - A JavaScript library for building user interfaces.
-HTML - Markup language for structuring web pages.
-CSS - Style sheet language for presentation.
-JavaScript - Programming language used for interactivity and logic.
+- React.js - A JavaScript library for building user interfaces.
+- HTML - Markup language for structuring web pages.
+- CSS - Style sheet language for presentation.
+- JavaScript - Programming language used for interactivity and logic.
 
 ## Contributing
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
