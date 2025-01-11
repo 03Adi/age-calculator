@@ -34,18 +34,18 @@ To run this project locally, follow these steps:
 3. Install the dependencies:
    npm install
    
-Usage
+## Usage
 To start the development server, run the following command:
 npm start
 Open your web browser and go to http://localhost:3000 to view the application.
 
-Technologies Used
+## Technologies Used
 React.js - A JavaScript library for building user interfaces.
 HTML - Markup language for structuring web pages.
 CSS - Style sheet language for presentation.
 JavaScript - Programming language used for interactivity and logic.
 
-Contributing
+## Contributing
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 1. Fork the repository.
 2. Create a new branch:
@@ -56,10 +56,10 @@ Contributions are welcome! If you would like to contribute to this project, plea
    git push origin feature/YourFeatureName
 5. Open a pull request.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgements
+## Acknowledgements
 React Documentation - For guidance on using React.js.
 GitHub Pages - For hosting the project.
 
