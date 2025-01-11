@@ -58,11 +58,11 @@ Contributions are welcome! If you would like to contribute to this project, plea
 5. Open a pull request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+- This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements
-React Documentation - For guidance on using React.js.
-GitHub Pages - For hosting the project.
+- React Documentation - For guidance on using React.js.
+- GitHub Pages - For hosting the project.
 
 Feel free to reach out if you have any questions or suggestions!
 
