@@ -6,7 +6,7 @@
  
 ## Features
  
-- User-friendly interface for entering birth dates and calculating age.
+- User-friendly interface for entering birth dates and calculating age. 
 - Calculates age in years, months, days, hours, minutes, and seconds.
 - Displays detailed information about the user's age and significant lived time.
 
