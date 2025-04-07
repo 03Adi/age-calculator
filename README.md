@@ -3,7 +3,7 @@
 ![GitHub](https://img.shields.io/badge/License-MIT-green) 
  
 **Age Calculator** is a simple web application built with **React.js** that allows users to calculate their age based on their date of birth and a specified future date. This project showcases the use of modern web development practices and provides a user-friendly interface for age calculation.
-  
+ 
 ## Features
  
 - User-friendly interface for entering birth dates and calculating age. 
