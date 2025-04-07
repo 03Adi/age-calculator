@@ -49,7 +49,7 @@ To run this project locally, follow these steps:
 ## Contributing
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 1. Fork the repository.
-2. Create a new branch:
+2. Create a new branch: 
    git checkout -b feature/YourFeatureName
 3. Make your changes and commit them:
    git commit -m "Add some feature"
